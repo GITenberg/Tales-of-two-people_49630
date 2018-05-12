@@ -1,9 +1,13 @@
 _repo: Tales-of-two-people_49630
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Buckland, A. H.
     gutenberg_agent_id: '45450'
     url: http://www.gutenberg.org/2009/agents/45450
+covers:
+- cover_type: archival
+  image_path: 49630-h/images/cover.jpg
 creator:
   author:
     agent_name: Hope, Anthony
@@ -14,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/63
     wikipedia: http://en.wikipedia.org/wiki/Anthony_Hope
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49630#Tales-of-two-people
 gutenberg_issued: '2015-08-06'
 gutenberg_type: Text
 identifiers:
